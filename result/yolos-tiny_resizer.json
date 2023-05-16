@@ -1,0 +1,1 @@
+[{"score":0.996863603591919,"label":"car","box":{"xmin":16,"ymin":135,"xmax":816,"ymax":542}},{"score":0.9786892533302307,"label":"car","box":{"xmin":593,"ymin":143,"xmax":844,"ymax":351}},{"score":0.9383575916290283,"label":"car","box":{"xmin":517,"ymin":138,"xmax":562,"ymax":155}}]
