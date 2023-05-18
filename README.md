@@ -7,7 +7,7 @@ This lambda handler is fired when the user uploads an image to the s3 bucket, th
 In `handler.py` change the hugging face api token .
 
 ```python
-API_TOKEN = "hf_gdasdtxzchkGJAjhasdasdbUlSiPAjjEmxfAdxLFLcM"
+API_TOKEN = "YOUR_API_TOKEN"
 ```
 
 ## Usage
