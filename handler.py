@@ -5,7 +5,7 @@ from pprint import pprint
 from urllib.request import urlopen, Request
 import boto3
 
-API_TOKEN = "hf_gdasdtxzchkGJAjhasdasdbUlSiPAjjEmxfAdxLFLcM"
+API_TOKEN = "YOUR_API_TOKEN"
 
 s3_client = boto3.client("s3")
 
